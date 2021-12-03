@@ -1,1 +1,6 @@
-Hello
+<<<<<<< HEAD
+=======
+How are you?
+
+Tacos
+>>>>>>> 0ecc578e82aba2e281ad24cac6e655e21d5a8523

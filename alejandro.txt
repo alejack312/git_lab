@@ -1,1 +1,6 @@
-How's it going?
+<<<<<<< HEAD
+=======
+How are you?
+
+Nothing
+>>>>>>> 0ecc578e82aba2e281ad24cac6e655e21d5a8523
